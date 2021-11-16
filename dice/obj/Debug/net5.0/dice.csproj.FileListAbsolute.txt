@@ -1,0 +1,15 @@
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/dice/bin/Debug/net5.0/dice.deps.json
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/dice/bin/Debug/net5.0/dice.runtimeconfig.json
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/dice/bin/Debug/net5.0/dice.runtimeconfig.dev.json
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/dice/bin/Debug/net5.0/dice.dll
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/dice/bin/Debug/net5.0/ref/dice.dll
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/dice/bin/Debug/net5.0/dice.pdb
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/dice/obj/Debug/net5.0/dice.csproj.AssemblyReference.cache
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/dice/obj/Debug/net5.0/dice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/dice/obj/Debug/net5.0/dice.AssemblyInfoInputs.cache
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/dice/obj/Debug/net5.0/dice.AssemblyInfo.cs
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/dice/obj/Debug/net5.0/dice.csproj.CoreCompileInputs.cache
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/dice/obj/Debug/net5.0/dice.dll
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/dice/obj/Debug/net5.0/ref/dice.dll
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/dice/obj/Debug/net5.0/dice.pdb
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/dice/obj/Debug/net5.0/dice.genruntimeconfig.cache
