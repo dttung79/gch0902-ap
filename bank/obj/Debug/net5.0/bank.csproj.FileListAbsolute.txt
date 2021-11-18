@@ -1,0 +1,15 @@
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/bank/bin/Debug/net5.0/bank.deps.json
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/bank/bin/Debug/net5.0/bank.runtimeconfig.json
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/bank/bin/Debug/net5.0/bank.runtimeconfig.dev.json
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/bank/bin/Debug/net5.0/bank.dll
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/bank/bin/Debug/net5.0/ref/bank.dll
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/bank/bin/Debug/net5.0/bank.pdb
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/bank/obj/Debug/net5.0/bank.csproj.AssemblyReference.cache
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/bank/obj/Debug/net5.0/bank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/bank/obj/Debug/net5.0/bank.AssemblyInfoInputs.cache
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/bank/obj/Debug/net5.0/bank.AssemblyInfo.cs
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/bank/obj/Debug/net5.0/bank.csproj.CoreCompileInputs.cache
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/bank/obj/Debug/net5.0/bank.dll
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/bank/obj/Debug/net5.0/ref/bank.dll
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/bank/obj/Debug/net5.0/bank.pdb
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/bank/obj/Debug/net5.0/bank.genruntimeconfig.cache
