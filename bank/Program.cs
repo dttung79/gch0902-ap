@@ -31,6 +31,10 @@ namespace bank
             System.Console.WriteLine("Bank Menu");
             System.Console.WriteLine("1. Add account.");
             System.Console.WriteLine("2. Show account.");
+            // TODO: Homework 
+            // 3. Edit account
+            // 4. Show all accounts
+            // 5. Delete account
             System.Console.WriteLine("0. Exit.");
         }
         private int GetChoice()
