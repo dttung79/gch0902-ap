@@ -29,7 +29,7 @@ namespace bank
             System.Console.Write("Enter account id: ");
             int id = Convert.ToInt32(Console.ReadLine());
 
-            bool found = false;
+            // bool found = false;
             // for (int i = 0; i < accounts.Count; i++)
             // {
             //     if (accounts[i].ID == id)
@@ -38,16 +38,19 @@ namespace bank
             //         accounts[i].ShowInfo();
             //     }
             // }
-            foreach (Account acc in accounts)
-            {
-                if (acc.ID == id)
-                {
-                    found = true;
-                    acc.ShowInfo();
-                }
-            }
+            // foreach (Account acc in accounts)
+            // {
+            //     if (acc.ID == id)
+            //     {
+            //         found = true;
+            //         acc.ShowInfo();
+            //     }
+            // }
 
-            if (!found) System.Console.WriteLine("ID not found!");
+            // if (!found) System.Console.WriteLine("ID not found!");
+            int pos = FindAccount(id);
+            if (pos != -1) accounts[pos].ShowInfo();
+            else System.Console.WriteLine("ID not found!");
         }
 
         public void ShowAllAccounts()
