@@ -1,0 +1,15 @@
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/texts/bin/Debug/net5.0/texts.deps.json
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/texts/bin/Debug/net5.0/texts.runtimeconfig.json
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/texts/bin/Debug/net5.0/texts.runtimeconfig.dev.json
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/texts/bin/Debug/net5.0/texts.dll
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/texts/bin/Debug/net5.0/ref/texts.dll
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/texts/bin/Debug/net5.0/texts.pdb
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/texts/obj/Debug/net5.0/texts.csproj.AssemblyReference.cache
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/texts/obj/Debug/net5.0/texts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/texts/obj/Debug/net5.0/texts.AssemblyInfoInputs.cache
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/texts/obj/Debug/net5.0/texts.AssemblyInfo.cs
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/texts/obj/Debug/net5.0/texts.csproj.CoreCompileInputs.cache
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/texts/obj/Debug/net5.0/texts.dll
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/texts/obj/Debug/net5.0/ref/texts.dll
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/texts/obj/Debug/net5.0/texts.pdb
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/texts/obj/Debug/net5.0/texts.genruntimeconfig.cache

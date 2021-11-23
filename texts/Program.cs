@@ -6,7 +6,11 @@ namespace texts
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Text msg = new Text("Design Pattern");
+            msg.PrintLn();
+
+            FancyText fctext = new FancyText("Hello C#");
+            fctext.Print();
         }
     }
 }

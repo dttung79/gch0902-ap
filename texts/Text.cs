@@ -10,5 +10,27 @@ namespace texts
         // implement: property get/set for content
         // implement: default constructor (content="Hello World"), parameter constructor
         // implement: Print method to print content
+        public string Content
+        {
+            get; set;
+        }
+        public Text()
+        {
+            Content = "Hello World";
+        }
+        public Text(string content)
+        {
+            Content = content;
+        }
+
+        public void Print()
+        {
+            System.Console.Write(Content);
+        }
+        public void PrintLn()
+        {
+            Print();
+            System.Console.WriteLine();
+        }
     }
 }
