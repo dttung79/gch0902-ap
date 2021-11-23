@@ -35,6 +35,9 @@ namespace bank
             // 3. Edit account
             // 4. Show all accounts
             // 5. Delete account
+            System.Console.WriteLine("3. Edit account");
+            System.Console.WriteLine("4. Delete account");
+            System.Console.WriteLine("5. Show all accounts");
             System.Console.WriteLine("0. Exit.");
         }
         private int GetChoice()
@@ -48,8 +51,11 @@ namespace bank
         {
             switch(choice)
             {
-                case 1: vcb.AddAccount(); break;
-                case 2: vcb.ShowAccount(); break;
+                case 1: vcb.AddAccount     (); break;
+                case 2: vcb.ShowAccount    (); break;
+                case 3: vcb.EditAccount    (); break;
+                case 4: vcb.DeleteAccount  (); break;
+                case 5: vcb.ShowAllAccounts(); break;
                 case 0: break;
                 default: System.Console.WriteLine("Invalid Option!"); break;
             }
