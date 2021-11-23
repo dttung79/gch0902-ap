@@ -23,7 +23,7 @@ namespace texts
             Content = content;
         }
 
-        public void Print()
+        public virtual void Print()
         {
             System.Console.Write(Content);
         }

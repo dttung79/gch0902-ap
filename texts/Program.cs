@@ -9,8 +9,13 @@ namespace texts
             Text msg = new Text("Design Pattern");
             msg.PrintLn();
 
-            FancyText fctext = new FancyText("Hello C#");
-            fctext.Print();
+            //FancyText fctext = new FancyText("Hello C#");
+            //fctext.Print();
+
+            msg = new FancyText("Hello C#");
+            msg.Print();
+
+            msg.Content = "abcxyz";
         }
     }
 }

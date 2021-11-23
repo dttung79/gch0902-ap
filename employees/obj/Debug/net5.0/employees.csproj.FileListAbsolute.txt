@@ -1,0 +1,15 @@
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/employees/bin/Debug/net5.0/employees.deps.json
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/employees/bin/Debug/net5.0/employees.runtimeconfig.json
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/employees/bin/Debug/net5.0/employees.runtimeconfig.dev.json
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/employees/bin/Debug/net5.0/employees.dll
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/employees/bin/Debug/net5.0/ref/employees.dll
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/employees/bin/Debug/net5.0/employees.pdb
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/employees/obj/Debug/net5.0/employees.csproj.AssemblyReference.cache
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/employees/obj/Debug/net5.0/employees.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/employees/obj/Debug/net5.0/employees.AssemblyInfoInputs.cache
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/employees/obj/Debug/net5.0/employees.AssemblyInfo.cs
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/employees/obj/Debug/net5.0/employees.csproj.CoreCompileInputs.cache
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/employees/obj/Debug/net5.0/employees.dll
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/employees/obj/Debug/net5.0/ref/employees.dll
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/employees/obj/Debug/net5.0/employees.pdb
+/Users/tungdt/OneDrive - FPT EDUCATION/Program - F2G new/Unit 20 - Avanced Programming/GCH0902/demo/gch0902-ap/employees/obj/Debug/net5.0/employees.genruntimeconfig.cache

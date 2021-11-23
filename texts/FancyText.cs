@@ -21,7 +21,7 @@ namespace texts
             // nothing todo
         }
 
-        public void Print()
+        public override void Print()
         {
             PrintLine(); // +--------+
             System.Console.Write("|");
