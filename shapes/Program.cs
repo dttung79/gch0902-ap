@@ -17,6 +17,10 @@ namespace shapes
             s = new Square("MNPQ", 5);
             s.Print();
             s.Draw();
+
+            s = new Triangle("ABC", 4);
+            s.Print();
+            s.Draw();
         }
     }
 }
