@@ -31,6 +31,11 @@ namespace demoadapter
             FirstName = first;
             LastName = last;
         }
+
+        public override string ToString() 
+        {
+            return "Name: " + FirstName + " " + LastName + ", Grade: " + GetGrade();
+        }
         public abstract string GetGrade();
     }
 }
