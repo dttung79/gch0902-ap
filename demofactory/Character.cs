@@ -17,6 +17,7 @@ namespace demofactory
         public void Build()
         {
             System.Console.Write("Enter name: ");
+            Name = Console.ReadLine();
             WEP = CreateWeapon();
             ARM = CreateArmor();
         }
@@ -29,6 +30,42 @@ namespace demofactory
         {
             System.Console.WriteLine(Name + " attacts " + other.Name);
             WEP.Attack(other);
+        }
+    }
+
+    public class Archer : Character
+    {
+        public Archer() 
+        {
+            Damage = 10;
+            HP = 100;
+        }
+        protected override Armor CreateArmor()
+        {
+            return new LeatherArmor();
+        }
+
+        protected override Weapon CreateWeapon()
+        {
+            return new Bow();
+        }
+    }
+
+    public class Warrior : Character
+    {
+        public Warrior()
+        {
+            Damage = 20;
+            HP = 250;
+        }
+        protected override Armor CreateArmor()
+        {
+            return new IronArmor();
+        }
+
+        protected override Weapon CreateWeapon()
+        {
+            return new Sword();
         }
     }
 }

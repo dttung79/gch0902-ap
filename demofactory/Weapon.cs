@@ -22,7 +22,7 @@ namespace demofactory
             System.Console.WriteLine(">---------|>");
             
             // affect hp of other
-            int finalDamage = other.ARM.Block(this);
+            int finalDamage = Damage + other.ARM.Block(this);
             other.HP -= finalDamage;
             System.Console.WriteLine("HP of " + other.Name + " after hit: " + other.HP);
         }
@@ -38,7 +38,7 @@ namespace demofactory
         {
             System.Console.WriteLine("[=))============\\");
             // affect hp of other
-            int finalDamage = other.ARM.Block(this);
+            int finalDamage = Damage + other.ARM.Block(this);
             other.HP -= finalDamage;
             System.Console.WriteLine("HP of " + other.Name + " after hit: " + other.HP);
         }
